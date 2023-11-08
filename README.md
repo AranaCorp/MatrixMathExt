@@ -1,5 +1,5 @@
-# MatrixMath
-http://playground.arduino.cc/Code/MatrixMath
+# MatrixMathExt
+Modified from  http://playground.arduino.cc/Code/MatrixMath
 
 A minimal linear algebra library for Arduino. This gives you all the basics in a lean package, up to in-place matrix inversion.
 Matrices are represented as simple 2D arrays, so you need to check dimension agreement manually.
@@ -10,6 +10,7 @@ And a related library for vector geometry manipulation is https://github.com/tom
 
 
 ### History
+2018 Xavier Wiedmer (AranaCorp) / modified package to add function for reverse kinematics computation https://www.aranacorp.com/en/program-a-robot-to-draw/
 
 2016 Vasilis Georgitzikis / Package code into easy-install Arduino library. 
 
