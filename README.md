@@ -8,9 +8,12 @@ A far more capable, testable, and friendly linear algebra library for Arduino is
 
 And a related library for vector geometry manipulation is https://github.com/tomstewart89/Geometry
 
+### TODO
+Add the functions from the tutorial to the library
+
 
 ### History
-2018 Xavier Wiedmer (AranaCorp) / modified package to add function for reverse kinematics computation https://www.aranacorp.com/en/program-a-robot-to-draw/
+2018 Xavier Wiedmer (AranaCorp) / modified package to add functions for reverse kinematics computation https://www.aranacorp.com/en/program-a-robot-to-draw/
 
 2016 Vasilis Georgitzikis / Package code into easy-install Arduino library. 
 
